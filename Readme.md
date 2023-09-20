@@ -1,3 +1,3 @@
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattgo&show_icons=true&theme=dark&hide_border=true)](https://github.com/Mattgo/)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mttgo&show_icons=true&theme=dark&hide_border=true)](https://github.com/Mttgo/)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattgo&theme=dark&hide_border=true)](https://github.com/Mattgo/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mttgo&theme=dark&hide_border=true)](https://github.com/Mttgo/)
